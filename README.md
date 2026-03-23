@@ -10,9 +10,9 @@
 
 ## 🎯 About Me
 
-I am a **Senior Mobile Developer & Tech Lead** with over **10 years of experience** building complex cross-platform and native applications.
+I am a **Senior Mobile Developer & Team Lead** with over **10 years of experience** building complex cross-platform and native applications.
 
-I specialize in **mobile architecture**, **team leadership**, and **delivering high-quality products** from concept to store release. Currently, I am focusing on **iOS Engineering** while maintaining my expertise in system design and Rust.
+I specialize in **mobile architecture**, **team leadership**, and **delivering high-quality products** from concept to store release.
 
 ---
 
@@ -36,6 +36,6 @@ I specialize in **mobile architecture**, **team leadership**, and **delivering h
 - **Engine**: Godot 4.x
 - **Language**: Rust (gdext), GDScript
 - **Store Publishing**: Google Play, App Store, Web
-- **Full Cycle**: Design → Code → Art → Sound → Monetization (Ads/IAP)
+- **Full Cycle**: Design → Code → Art → Sound → Monetization
 
 
