@@ -14,28 +14,4 @@ I am a **Senior Mobile Developer & Team Lead** with over **10 years of experienc
 
 I specialize in **mobile architecture**, **team leadership**, and **delivering high-quality products** from concept to store release.
 
----
-
-## 🛠️ Tech Stack
-
-### Mobile Development
-| iOS | Android | Cross-Platform |
-| :--- | :--- | :--- |
-| Java, UIKit, SwiftUI | Java, Android SDK | Xamarin (Forms/Native) |
-| SwiftData, Realm, Keychain | SQLite | MVVM, Clean Architecture |
-| XCTest, XCUITest | JUnit | CI/CD, Fastlane, Azure DevOps |
-
-### Backend & Systems
-|   |   |   |
-|---|---|---|
-| Rust (tokio, axum, gdext) | C# (ASP.NET Core) | PostgreSQL, Redis |
-| Docker, Git, GitFlow | REST API, GraphQL | WebSockets |
-
-### GameDev & Creative
-
-- **Engine**: Godot 4.x
-- **Language**: Rust (gdext), GDScript
-- **Store Publishing**: Google Play, App Store, Web
-- **Full Cycle**: Design → Code → Art → Sound → Monetization
-
 
